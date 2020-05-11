@@ -1,0 +1,17 @@
+.header {
+  min-height: 80rem;
+  background-image: url("../images/img-bg-header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  justify-content: center;
+
+  .nav {
+    margin-top: 3rem;
+    &__list {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
