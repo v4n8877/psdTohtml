@@ -1,0 +1,2 @@
+- Clone pages
+- use sass and BEM.
